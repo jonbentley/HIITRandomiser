@@ -1,0 +1,8 @@
+
+
+Read 
+https://codewithmukesh.com/blog/blazor-hero-quick-start-guide/
+
+
+Install template into C:\Users\jon.bentley\.templateengine\dotnetcli\v5.0.103\packages
+dotnet new --install BlazorHero.CleanArchitecture
